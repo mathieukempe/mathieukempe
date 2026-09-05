@@ -2,8 +2,6 @@
 
 # Mathieu Kempé
 
-### CTO who still writes code
-
 <sub><b>Co-Founder &amp; CTO at Cogentic</b> &nbsp;·&nbsp; Sydney, Australia &nbsp;·&nbsp; Infrastructure for regulated money movement</sub>
 
 </div>
