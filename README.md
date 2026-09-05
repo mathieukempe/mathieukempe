@@ -50,7 +50,7 @@ deep bench     C# / .NET · ASP.NET MVC · MongoDB · SQL · AWS
 
 Twenty-four years, starting on .NET in France and ending up here.
 
-Co-founded **Selz**, a direct-to-consumer commerce platform, and grew it to **30,000+ live merchants** before **Amazon acquired it in 2021**. Stayed four and a half years as **Sr. Manager, Software Engineering** in Buy with Prime, running a multi-team org across Australia and the US. Before that, Technical Director at Community Engine, scaling engineering to **35+ people**.
+Co-founded **Selz**, a direct-to-consumer commerce platform, and grew it to **30,000+ live merchants** before **Amazon acquired it in 2021**. Stayed on at Amazon for four and a half years as **Sr. Manager, Software Engineering**, running a multi-team org across Australia and the US. Before that, Technical Director at Community Engine, scaling engineering to **35+ people**.
 
 **Microsoft MVP.** DESS in Computer Science — French postgraduate diploma, roughly an MSc. Studied neural networks in 2003 and somehow ended up building agent tooling in 2026. English and French.
 
