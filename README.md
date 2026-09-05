@@ -2,7 +2,7 @@
 
 # Mathieu Kempé
 
-<sub><b>Co-Founder &amp; CTO at Cogentic</b> &nbsp;·&nbsp; Sydney, Australia &nbsp;·&nbsp; Infrastructure for regulated money movement</sub>
+<sub><b>Co-Founder &amp; CTO at Cogentic</b> &nbsp;·&nbsp; Sydney, Australia &nbsp;·&nbsp; AI agents for onchain compliance</sub>
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ### [Cogentic](https://www.cogentic.co)
 
-<kbd>&nbsp;COMPLIANCE INFRASTRUCTURE&nbsp;</kbd>
+<kbd>&nbsp;AI AGENTS&nbsp;·&nbsp;ONCHAIN COMPLIANCE&nbsp;</kbd>
 
-Compliance infrastructure for VASPs: grow transaction volume without growing the compliance team. **45+ jurisdictions, one platform.** Ships an open VASP registry of 5,600+ entities and a machine-readable Travel Rule dataset covering 208 jurisdictions, IVMS101-aligned — plus an MCP server so AI assistants can query it directly. Investigation work is run by traced, tested agents built on Mastra.
+AI agents for onchain financial crime compliance. They triage alert queues, run investigations and draft regulator-ready SAR, SMR and STR filings inside the stack a compliance team already runs. Every brief cites its sources and lands in an immutable evidence ledger — the MLRO signs, Cogentic never files. **45+ jurisdictions modelled, AUSTRAC live.**
 
 > **BUILDING** — Co-founded 2025. I own the architecture and ship alongside the rest of the team.
 
