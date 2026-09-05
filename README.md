@@ -24,15 +24,6 @@ Compliance infrastructure for VASPs: grow transaction volume without growing the
 
 Eight years co-founding and building a startup, then four and a half years running a multi-team engineering organisation at Amazon. The two reward different instincts — speed and scope in one, reliability and process in the other. I've operated in both and apply whichever the problem actually needs.
 
-```text
-commits    Conventional Commits, one concern per PR
-review     small, reviewable, revertible — never a mega-PR
-tests      Vitest. Deleted when they stop earning their keep.
-pipelines  CI plus scheduled data-enrichment jobs on GitHub Actions
-failure    designed on purpose — rate limiters fail open, not closed
-ai         agent-assisted, human-verified. Nothing merges unread.
-```
-
 <br>
 
 ## ◆ Stack
