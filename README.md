@@ -21,10 +21,10 @@ AI agents for onchain financial crime compliance. They triage alert queues, run 
 ## ◆ Stack
 
 ```text
-shipping now   TypeScript · Next.js · React · Tailwind · Postgres/Neon
-               Vitest · Redis · Docker · Vercel · GitHub Actions
-ai agents      Mastra · MCP · Vercel AI SDK · agent memory · Langfuse tracing
-               model-agnostic — Bedrock, OpenAI, Gemini, xAI
+shipping now   TypeScript end to end · React / Next.js · Postgres
+               containerised services · CI/CD · serverless and edge
+ai agents      multi-agent orchestration on Mastra · MCP servers
+               agent memory · tested and traced · model-agnostic
 deep bench     C# / .NET · ASP.NET MVC · MongoDB · SQL · AWS
                distributed systems · multi-tenant SaaS
 commerce       17 years in ecommerce — DTC platforms, marketplaces, Amazon
