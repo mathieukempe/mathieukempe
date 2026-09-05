@@ -23,8 +23,9 @@ AI agents for onchain financial crime compliance. They triage alert queues, run 
 ```text
 shipping now   TypeScript end to end · React / Next.js · Postgres
                containerised services · CI/CD · serverless and edge
-ai agents      multi-agent orchestration on Mastra · agent memory
-               tested and traced · model-agnostic
+ai agents      multi-agent orchestration on Mastra
+               production agents — under test, fully traceable,
+               and not tied to a single model provider
 deep bench     .NET and C# · relational and document databases
                cloud platforms · distributed systems · multi-tenant SaaS
 commerce       17 years in ecommerce and marketplace platforms
