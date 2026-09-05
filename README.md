@@ -18,7 +18,7 @@
 
 Compliance infrastructure for VASPs: grow transaction volume without growing the compliance team. **45+ jurisdictions, one platform.** Ships an open VASP registry of 5,600+ entities and a machine-readable Travel Rule dataset covering 208 jurisdictions, IVMS101-aligned.
 
-> **BUILDING** — Co-founded 2025. I own the architecture and write the code.
+> **BUILDING** — Co-founded 2025. I own the architecture and ship alongside the rest of the team.
 
 ## ● How I Work
 
