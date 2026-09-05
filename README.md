@@ -26,7 +26,9 @@ shipping now   TypeScript · Next.js · React · Tailwind · Postgres/Neon
 ai agents      Mastra · MCP · Vercel AI SDK · agent memory · Langfuse tracing
                model-agnostic — Bedrock, OpenAI, Gemini, xAI
 deep bench     C# / .NET · ASP.NET MVC · MongoDB · SQL · AWS
-               distributed systems · multi-tenant SaaS · payments
+               distributed systems · multi-tenant SaaS
+commerce       17 years in ecommerce — DTC platforms, marketplaces, Amazon
+               full commerce stack · merchant platforms · payments
 leading        engineering orgs to 35+ · multi-team across AU and US
                hiring · mentoring · promoting engineers into leadership
                stakeholder management up to board and C-suite
