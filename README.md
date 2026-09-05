@@ -30,6 +30,7 @@ deep bench     .NET and C# · relational and document databases
 commerce       17 years in ecommerce and marketplace platforms
                full commerce stack · merchant-facing products · payments
 leading        building and scaling engineering organisations to 35+
+               engineering and technology management · cross-functional leadership
                hiring · mentoring · growing engineers into leaders
                stakeholder management at executive and board level
 ```
