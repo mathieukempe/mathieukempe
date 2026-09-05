@@ -14,7 +14,7 @@
 
 <kbd>&nbsp;AI AGENTS&nbsp;·&nbsp;ONCHAIN COMPLIANCE&nbsp;</kbd>
 
-AI agents for onchain financial crime compliance. They triage alert queues, run investigations and draft regulator-ready SAR, SMR and STR filings inside the stack a compliance team already runs. Every brief cites its sources and lands in an immutable evidence ledger — the MLRO signs, Cogentic never files. **45+ jurisdictions modelled, AUSTRAC live.**
+AI agents for onchain financial crime compliance. They triage alert queues, run investigations and draft regulator-ready SAR, SMR and STR filings inside the stack a compliance team already runs. Every brief cites its sources and lands in an immutable evidence ledger.
 
 > **BUILDING** — Co-founded 2025. I own the architecture and ship alongside the rest of the team.
 
