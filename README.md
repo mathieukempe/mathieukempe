@@ -16,7 +16,7 @@
 
 <kbd>&nbsp;COMPLIANCE INFRASTRUCTURE&nbsp;</kbd>
 
-Compliance infrastructure for VASPs: grow transaction volume without growing the compliance team. **45+ jurisdictions, one platform.** Ships an open VASP registry of 5,600+ entities and a machine-readable Travel Rule dataset covering 208 jurisdictions, IVMS101-aligned.
+Compliance infrastructure for VASPs: grow transaction volume without growing the compliance team. **45+ jurisdictions, one platform.** Ships an open VASP registry of 5,600+ entities and a machine-readable Travel Rule dataset covering 208 jurisdictions, IVMS101-aligned — plus an MCP server so AI assistants can query it directly. Investigation work is run by traced, tested agents built on Mastra.
 
 > **BUILDING** — Co-founded 2025. I own the architecture and ship alongside the rest of the team.
 
@@ -24,7 +24,9 @@ Compliance infrastructure for VASPs: grow transaction volume without growing the
 
 ```text
 shipping now   TypeScript · Next.js · React · Tailwind · Postgres/Neon
-               Vitest · Redis · Docker · Vercel · GitHub Actions · MCP
+               Vitest · Redis · Docker · Vercel · GitHub Actions
+ai agents      Mastra · MCP · Vercel AI SDK · agent memory · Langfuse tracing
+               model-agnostic — Bedrock, OpenAI, Gemini, xAI
 deep bench     C# / .NET · ASP.NET MVC · MongoDB · SQL · AWS
                distributed systems · multi-tenant SaaS · payments
 ```
