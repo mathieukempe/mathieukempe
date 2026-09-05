@@ -22,6 +22,8 @@ Compliance infrastructure for VASPs: grow transaction volume without growing the
 
 ## ● How I Work
 
+Eight years building a startup. Four and a half running engineering at Amazon. Startups teach you what you can skip. Big tech teaches you what happens when you skip the wrong thing. Most of the job is knowing which room you're in.
+
 ```text
 commits    Conventional Commits, one concern per PR
 review     small, reviewable, revertible — never a mega-PR
