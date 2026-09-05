@@ -20,12 +20,6 @@ Compliance infrastructure for VASPs: grow transaction volume without growing the
 
 > **BUILDING** — Co-founded 2025. I own the architecture and ship alongside the rest of the team.
 
-## ● How I Work
-
-Eight years co-founding and building a startup, then four and a half years running a multi-team engineering organisation at Amazon. The two reward different instincts — speed and scope in one, reliability and process in the other. I've operated in both and apply whichever the problem actually needs.
-
-<br>
-
 ## ◆ Stack
 
 ```text
