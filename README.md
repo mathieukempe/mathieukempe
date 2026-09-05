@@ -12,36 +12,13 @@
 
 ## ▲ What I'm Building
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <br>
-      <h3>&nbsp;<a href="https://www.vasptrack.org">VaspTrack</a></h3>
-      <p>&nbsp;<kbd>&nbsp;LIVE&nbsp;·&nbsp;VASP DIRECTORY&nbsp;</kbd></p>
-      <p>&nbsp;Open registry of Virtual Asset Service Providers. 5,600+ entities, searchable by name, LEI or identifier — with regulatory status, risk scores and Travel Rule readiness.</p>
-      <blockquote><b>SHIPPED</b> — Next.js and Postgres, fed by automated enrichment pipelines.<br><i>Architect and lead engineer</i></blockquote>
-      <br>
-    </td>
-    <td width="33%" valign="top">
-      <br>
-      <h3>&nbsp;Travel Rule Engine</h3>
-      <p>&nbsp;<kbd>&nbsp;OPEN DATA&nbsp;·&nbsp;TS SDK&nbsp;</kbd></p>
-      <p>&nbsp;Machine-readable directory of FATF Travel Rule requirements across <b>208 jurisdictions</b>, IVMS101-aligned, with a TypeScript engine that resolves which rules apply for a given country and date.</p>
-      <blockquote><b>PUBLISHED</b> — Solves the Sunrise Problem: every jurisdiction adopting at a different date, threshold and data standard.<br><i>Author</i></blockquote>
-      <br>
-    </td>
-    <td width="33%" valign="top">
-      <br>
-      <h3>&nbsp;<a href="https://www.cogentic.co">Cogentic</a></h3>
-      <p>&nbsp;<kbd>&nbsp;THE COMPANY&nbsp;</kbd></p>
-      <p>&nbsp;Compliance infrastructure for VASPs: grow transaction volume without growing the compliance team. 45+ jurisdictions, one platform.</p>
-      <blockquote><b>BUILDING</b> — Co-founded 2025. I own the architecture and write the code.<br><i>Co-Founder and CTO</i></blockquote>
-      <br>
-    </td>
-  </tr>
-</table>
+### [Cogentic](https://www.cogentic.co)
 
-<br>
+<kbd>&nbsp;COMPLIANCE INFRASTRUCTURE&nbsp;</kbd>
+
+Compliance infrastructure for VASPs: grow transaction volume without growing the compliance team. **45+ jurisdictions, one platform.** Ships an open VASP registry of 5,600+ entities and a machine-readable Travel Rule dataset covering 208 jurisdictions, IVMS101-aligned.
+
+> **BUILDING** — Co-founded 2025. I own the architecture and write the code.
 
 ## ● How I Work
 
