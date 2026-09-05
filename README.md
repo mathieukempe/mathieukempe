@@ -46,6 +46,6 @@ Co-founded **Selz**, a direct-to-consumer commerce platform, and grew it to **30
 
 **Microsoft MVP.** DESS in Computer Science — French postgraduate diploma, roughly an MSc. Studied neural networks in 2003 and somehow ended up building agent tooling in 2026. English and French.
 
-Still building things outside work — learning games, agent skills, whatever has my attention that month.
+Still building things outside work.
 
 <sub>Full history → <a href="https://www.linkedin.com/in/mathieukempe">LinkedIn</a></sub>
