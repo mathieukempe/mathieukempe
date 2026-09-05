@@ -25,13 +25,13 @@ shipping now   TypeScript end to end · React / Next.js · Postgres
                containerised services · CI/CD · serverless and edge
 ai agents      multi-agent orchestration on Mastra · agent memory
                tested and traced · model-agnostic
-deep bench     C# / .NET · ASP.NET MVC · MongoDB · SQL · AWS
-               distributed systems · multi-tenant SaaS
-commerce       17 years in ecommerce — DTC platforms, marketplaces, Amazon
-               full commerce stack · merchant platforms · payments
-leading        engineering orgs to 35+ · multi-team across AU and US
-               hiring · mentoring · promoting engineers into leadership
-               stakeholder management up to board and C-suite
+deep bench     .NET and C# · relational and document databases
+               cloud platforms · distributed systems · multi-tenant SaaS
+commerce       17 years in ecommerce and marketplace platforms
+               full commerce stack · merchant-facing products · payments
+leading        building and scaling engineering organisations to 35+
+               hiring · mentoring · growing engineers into leaders
+               stakeholder management at executive and board level
 ```
 
 <br>
